@@ -3,7 +3,7 @@
 Surface Intel is a Python-based reconnaissance tool designed for deep attack surface mapping using a combination of crawling, JavaScript analysis, and headless browser automation.
 
 This framework focuses on high-value endpoint discovery to help bug bounty hunters and penetration testers uncover hidden functionality in modern web applications.
-
+###
 ⚡ Features
 🧠 Headless Browser Intelligence (Playwright)
 Captures real network requests/responses from modern web apps (SPA)
@@ -30,7 +30,7 @@ Others
 ⚙️ Lightweight Validation Engine
 Validates endpoints without being overly noisy
 Safe for bug bounty environments
-
+###
 🧪 Use Cases
 Bug bounty reconnaissance (hybrid manual + automation)
 Attack surface mapping for modern applications
